@@ -1,6 +1,6 @@
 .jumbotron {
     color: white;
-    background-image: url("/assets/b1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/b1.jpg");
     /* 通常導入的圖片是向左上對齊，所以接下來要開始調整圖片*/
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,7 +14,7 @@
 }
 
 #first {
-    background-image: url("/assets/st_change_text.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/st_change_text.jpg");
     min-height: 1500px;
     background-attachment: fixed;
     background-position: center;
@@ -25,7 +25,7 @@
 }
 
 #second {
-    background-image: url("/assets/st_or_text.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/st_or_text.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -34,7 +34,7 @@
 }
 
 #third {
-    background-image: url("/assets/st1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/st1.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -43,7 +43,7 @@
 }
 
 #forth {
-    background-image: url("/assets/st1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/st1.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -52,7 +52,7 @@
 }
 
 #fifth {
-    background-image: url("/assets/b1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/b1.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -61,7 +61,7 @@
 }
 
 #sixth {
-    background-image: url("/assets/history-ma2.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/history-ma2.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -70,7 +70,7 @@
 }
 
 #seventh {
-    background-image: url("/assets/history-ma1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/history-ma1.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -78,7 +78,7 @@
     background-size: cover;
 }
 #eighth{
-    background-image: url("/assets/history-ma3.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/history-ma3.jpg");
     min-height: 800px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -87,7 +87,7 @@
 }
 
 #ninth {
-    background-image: url("/assets/b1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/b1.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -96,7 +96,7 @@
 }
 
 #tenth {
-    background-image: url("/assets/b1.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/b1.jpg");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -104,7 +104,7 @@
     background-size: cover;
 }
 #eve{
-    background-image: url("/assets/b2.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/b2.jpg");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -112,7 +112,7 @@
     background-size: cover;
 }
 #twe{
-    background-image: url("/assets/future.jpg");
+    background-image: url("https://lexi900.github.io/a2.github.io/assets/future.jpg");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
